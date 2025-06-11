@@ -1,0 +1,9 @@
+[build-system]
+requires = ["uv"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "isp-decision-engine-lab"
+version = "1.0.0"
+readme = "README.md"
+requires-python = ">=3.9"
