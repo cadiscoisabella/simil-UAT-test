@@ -3,7 +3,7 @@ requires = ["uv"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "isp-decision-engine-lab"
+name = "simil-uat-test"
 version = "1.0.0"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
